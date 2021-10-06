@@ -45,7 +45,7 @@ Assessment will consist of both code submissions and a logbook for the lab, writ
 * A good guide on ```git``` can be found here [[link](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)].
 * If you need to install git, please follow the instructions [[here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)].
 
-An example of what your empty logbook repository will look like can be found [[here](https://github.com/STFleming/EmSys_Example_Lab1_logbook)]. When you get an email with your repository, use the following commands to get access to it:
+When you get an email with your repository, use the following commands to get access to it:
 
 ```
         git clone <LINK TO YOUR PRIVATE LOGBOOK REPOSITORY>
